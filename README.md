@@ -1,2 +1,4 @@
 # GPT_3-image-generation_text-prompt-
-This the modle which based on openAI dalle-2 concept ,it contains error because of my torchversion mismatch i learnt the modle from various internet resourcesand also take some help from code because  i am beginner in the feild of generative AI but i will try to best to do any project in future if i got any chances.
+In the project_colab file i tried to creat a architecture using CUB_200_2011 data set but i am unable to finish because due to version miss-match and in  my laptop the pytorch version 0.10.... is missing so i am unable to load my model after a multiple try. 
+so in secend part i used the pretrained modle of min_dalle and now i generate a little code to develope images on text response 
+and dataset are given above 
