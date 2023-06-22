@@ -3,4 +3,4 @@ In the project_colab file i tried to creat a architecture using CUB_200_2011 dat
 
 so in secend part i used the pretrained modle of min_dalle and now i generate a little code to develope images on text response.
 
-And  dataset are given above 
+And some portion  dataset are given above due to larger size of images i can't able to upload here . 
